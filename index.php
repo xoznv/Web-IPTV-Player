@@ -59,7 +59,7 @@
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
 		    <li class="nav-item">
-               <a class="channel nav-link" data-value="https://tc-live1.sanook.com/live/22302_ch5.m3u8" href="javascript:void(0);">CH5</a>
+               <a class="channel nav-link" data-value="http://red.ipfox.org:8080/live/Karim2_534341/40036069/2888.m3u8
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8" href="javascript:void(0);">Mono HD</a>
